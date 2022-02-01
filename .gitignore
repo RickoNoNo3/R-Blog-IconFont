@@ -1,3 +1,7 @@
 *.min.css
 *.min.js
 /iconfont.min.css
+
+# MacOS Finder
+.DS_Store
+*.DS_Store
